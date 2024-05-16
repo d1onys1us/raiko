@@ -3,6 +3,8 @@
 ## 1.0.0 (2024-05-16)
 
 
+welcum to tha first changelog im gonna make some manual edits here woop woop
+
 ### Features
 
 * add sgx input file lock to avoid concurrency problem ([9df1473](https://github.com/d1onys1us/raiko/commit/9df147394aa5e2c48a92364fcc037191faa914fd))
