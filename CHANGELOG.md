@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/d1onys1us/raiko/compare/v1.0.0...v1.0.1) (2024-05-16)
+
+
+### Bug Fixes
+
+* **raiko:** hi hi hi ([d3d75bd](https://github.com/d1onys1us/raiko/commit/d3d75bd9c9760372f4c56dcd16e17a5eb0a2f177))
+
 ## 1.0.0 (2024-05-16)
 
 
